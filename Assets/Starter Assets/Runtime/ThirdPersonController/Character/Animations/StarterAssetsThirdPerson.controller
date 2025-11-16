@@ -86,7 +86,7 @@ AnimatorStateMachine:
   m_EntryTransitions: []
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
-  m_AnyStatePosition: {x: 10, y: 330, z: 0}
+  m_AnyStatePosition: {x: 10, y: 340, z: 0}
   m_EntryPosition: {x: 220, y: 330, z: 0}
   m_ExitPosition: {x: 680, y: 260, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
@@ -522,7 +522,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Pistol Kneeling Idle_com
+  m_Name: "\u5B50\u5F48\u767C\u5C04"
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
@@ -536,7 +536,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: cfebd414167e88c408f92f869e5fbd84, type: 2}
+  m_Motion: {fileID: 7400000, guid: ffc93dbf1b6cca74695afed5c9a902aa, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -654,7 +654,7 @@ BlendTree:
   m_Name: Blend Tree
   m_Childs:
   - serializedVersion: 2
-    m_Motion: {fileID: -3100369314251171874, guid: 12e52e465ed793a4d801955e9f964a82, type: 3}
+    m_Motion: {fileID: 7400000, guid: 402a908b7aae63c4ebf4a4ef7c76d253, type: 2}
     m_Threshold: 0
     m_Position: {x: 0, y: 0}
     m_TimeScale: 1
